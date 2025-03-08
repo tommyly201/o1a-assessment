@@ -1,0 +1,21 @@
+# FastAPI and server
+fastapi>=0.95.0
+uvicorn>=0.21.1
+python-multipart>=0.0.6
+
+# Document processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+textract>=1.6.5
+
+# NLP and ML
+nltk>=3.8.1
+spacy>=3.6.0
+scikit-learn>=1.2.2
+transformers>=4.28.1
+sentence-transformers>=2.2.2
+
+# Utils
+python-dotenv>=1.0.0
+pydantic>=1.10.7
+pytest>=7.3.1
